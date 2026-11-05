@@ -93,7 +93,7 @@ const PROFILE = {
   // Remplace par tes vraies coordonnées (laisse '' pour masquer une ligne)
   contact: {
     email: 'layeseckseck12@gmail.com',
-    phone: '', // ex. '+33 6 00 00 00 00'
+    phone: '07 62 35 36 73',
     linkedin: '', // ex. 'https://www.linkedin.com/in/ton-profil'
   },
   // Formulaire "Me contacter" : colle ici ton URL Formspree (https://formspree.io/f/xxxx)
